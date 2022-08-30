@@ -1,0 +1,5 @@
+13:28:59.459 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+13:28:59.462 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+13:28:59.462 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+13:28:59.462 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+13:29:01.361 [AsyncHttpClient-1-4] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
